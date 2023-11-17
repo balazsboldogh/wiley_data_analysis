@@ -64,7 +64,7 @@ def csv_to_mysql(csv_file, host, database, user, password):
 # Use the function to insert CSV data into the MySQL database
 
 if __name__ == "__main__":
-    csv_file_path = "E:/Codebase/FinalProject/datasets/relational/Automotive/1order.csv"  
+    csv_file_path = "E:/Codebase/FinalProject/datasets/single/Salary.csv"
     host = "localhost"           
     database = "finalproject"       
     user = "root"           
